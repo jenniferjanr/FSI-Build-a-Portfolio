@@ -1,7 +1,4 @@
 <html>
-    <head>
-        <title> Jennifer Rodelar</title>
-    </head>
 <body>
  <style type="text/css">
   body {
