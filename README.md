@@ -1,7 +1,13 @@
 <html>
-   
+    <head>
+        <title> Jennifer Rodelar</title>
+    </head>
 <body>
-
+ <style type="text/css">
+  body {
+    color: #B3BBA5;
+    background-color: #EEEEE5; }
+  </style>
     <h1>
         Jennifer Rodelar
     </h1>
